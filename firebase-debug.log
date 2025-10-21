@@ -1,0 +1,54 @@
+[debug] [2025-10-21T00:55:26.819Z] ----------------------------------------------------------------------
+[debug] [2025-10-21T00:55:26.821Z] Command:       /nix/store/ws50yvm6vzlzf7jzz6n7xh4szddrack1-nodejs-20.19.1/bin/node /nix/store/i78h9v2gl6qg2w9646hi06syn3hbv4kj-firebase-tools-14.19.1/lib/node_modules/firebase-tools/lib/bin/firebase.js init hosting
+[debug] [2025-10-21T00:55:26.821Z] CLI Version:   14.19.1
+[debug] [2025-10-21T00:55:26.822Z] Platform:      linux
+[debug] [2025-10-21T00:55:26.822Z] Node Version:  v20.19.1
+[debug] [2025-10-21T00:55:26.822Z] Time:          Tue Oct 21 2025 00:55:26 GMT+0000 (Coordinated Universal Time)
+[debug] [2025-10-21T00:55:26.822Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-10-21T00:55:26.826Z] Checked if tokens are valid: true, expires at: 1761011059911
+[debug] [2025-10-21T00:55:26.827Z] Checked if tokens are valid: true, expires at: 1761011059911
+[debug] [2025-10-21T00:55:26.830Z] >>> [apiv2][query] GET https://monospace-pa.googleapis.com/v1/workspaces/portfolio-39695374 [none]
+[debug] [2025-10-21T00:55:27.399Z] <<< [apiv2][status] GET https://monospace-pa.googleapis.com/v1/workspaces/portfolio-39695374 403
+[debug] [2025-10-21T00:55:27.400Z] <<< [apiv2][body] GET https://monospace-pa.googleapis.com/v1/workspaces/portfolio-39695374 {"error":{"code":403,"message":"User is not authorized on this resource","status":"PERMISSION_DENIED"}}
+[error] Failed to fetch Firebase Project from current Studio Workspace: Request to https://monospace-pa.googleapis.com/v1/workspaces/portfolio-39695374 had HTTP Error: 403, User is not authorized on this resource
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/user/portfolio
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] 
+[debug] [2025-10-21T00:55:27.407Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-21T00:55:27.407Z] > authorizing via signed-in user (dkswndud92@gmail.com)
+[debug] [2025-10-21T00:55:27.407Z] Checked if tokens are valid: true, expires at: 1761011059911
+[debug] [2025-10-21T00:55:27.408Z] Checked if tokens are valid: true, expires at: 1761011059911
+[debug] [2025-10-21T00:55:27.408Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/my-secret-portfolio [none]
+[debug] [2025-10-21T00:55:27.646Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/my-secret-portfolio 200
+[debug] [2025-10-21T00:55:27.646Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/my-secret-portfolio {"projectId":"my-secret-portfolio","projectNumber":"357333864909","displayName":"my-secret-portfolio","name":"projects/my-secret-portfolio","resources":{"hostingSite":"my-secret-portfolio"},"state":"ACTIVE","etag":"1_dab3c277-8167-4497-b563-6765da0ab961"}
+[info] i  Using project my-secret-portfolio (my-secret-portfolio) . 
+[info] 
+=== Hosting Setup
+[debug] [2025-10-21T00:55:27.657Z] Checked if tokens are valid: true, expires at: 1761011059911
+[debug] [2025-10-21T00:55:27.658Z] Checked if tokens are valid: true, expires at: 1761011059911
+[debug] [2025-10-21T00:55:27.658Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/my-secret-portfolio [none]
+[debug] [2025-10-21T00:55:27.867Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/my-secret-portfolio 200
+[debug] [2025-10-21T00:55:27.867Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/my-secret-portfolio {"projectId":"my-secret-portfolio","projectNumber":"357333864909","displayName":"my-secret-portfolio","name":"projects/my-secret-portfolio","resources":{"hostingSite":"my-secret-portfolio"},"state":"ACTIVE","etag":"1_dab3c277-8167-4497-b563-6765da0ab961"}
+[info] 
+[info] i  Detected a .git folder at /home/user/portfolio 
+[info] i  Authorizing with GitHub to upload your service account to a GitHub repository's secrets store. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://github.com/login/oauth/authorize?client_id=89cf50f02ac6aaed3484&state=486086697&redirect_uri=http%3A%2F%2Flocalhost%3A9005&scope=read%3Auser%20repo%20public_repo
+[info] 
+[info] Waiting for authentication...
