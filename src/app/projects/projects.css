@@ -25,6 +25,7 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   overflow: hidden;
   transition: transform 0.3s ease;
+  text-align: left;
 }
 
 .project-card:hover {
@@ -46,7 +47,41 @@
   margin-bottom: 0.5rem;
 }
 
+.project-company {
+  font-style: italic;
+  color: #666;
+  margin-bottom: 1rem;
+}
+
 .project-description {
   font-size: 1rem;
   line-height: 1.4;
+}
+
+.project-techs {
+  margin-top: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.project-tech {
+  background-color: #f0f0f0;
+  color: #333;
+  padding: 0.3rem 0.8rem;
+  border-radius: 15px;
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.project-link {
+  display: inline-block;
+  margin-top: 1rem;
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.project-link:hover {
+  text-decoration: underline;
 }

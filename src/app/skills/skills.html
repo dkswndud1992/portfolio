@@ -3,35 +3,33 @@
   <div class="skills-grid">
     <div class="skill-category">
       <h3>Backend</h3>
-      <ul>
-        <li>Java</li>
-        <li>Spring Framework</li>
-        <li>Node.js</li>
-        <li>PostgreSQL</li>
-        <li>MySQL</li>
-        <li>MyBatis</li>
-        <li>JSP</li>
-      </ul>
+      <div class="skills-list">
+        @for (skill of backendSkills; track skill.name) {
+          <a [href]="skill.wikiUrl" target="_blank">
+            <img [src]="skill.badgeUrl" [alt]="skill.name">
+          </a>
+        }
+      </div>
     </div>
     <div class="skill-category">
       <h3>Frontend</h3>
-      <ul>
-        <li>OpenLayers</li>
-        <li>React</li>
-        <li>Vue.js</li>
-        <li>Flutter</li>
-        <li>Dart</li>
-      </ul>
+      <div class="skills-list">
+        @for (skill of frontendSkills; track skill.name) {
+          <a [href]="skill.wikiUrl" target="_blank">
+            <img [src]="skill.badgeUrl" [alt]="skill.name">
+          </a>
+        }
+      </div>
     </div>
     <div class="skill-category">
       <h3>Others & Robotics</h3>
-      <ul>
-        <li>ROS</li>
-        <li>AMP Server</li>
-        <li>PostGIS</li>
-        <li>Web Crawling</li>
-        <li>CAD</li>
-      </ul>
+      <div class="skills-list">
+        @for (skill of othersAndRoboticsSkills; track skill.name) {
+          <a [href]="skill.wikiUrl" target="_blank">
+            <img [src]="skill.badgeUrl" [alt]="skill.name">
+          </a>
+        }
+      </div>
     </div>
   </div>
 </section>

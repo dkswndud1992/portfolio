@@ -10,7 +10,7 @@ This portfolio showcases the skills, experience, and projects of 안주영, a 6-
 *   **Color Palette:** A balanced and professional color scheme is used throughout the application.
 *   **Typography:** Clear and readable fonts are used to ensure a good reading experience.
 *   **Layout:** A responsive single-page layout that works well on all devices. The navigation is intuitive, guiding users through the different sections of the portfolio.
-*   **Imagery:** High-quality, relevant images from Unsplash are used for each project to provide visual context and enhance the overall aesthetic.
+*   **Imagery:** High-quality, relevant images from official project sites and repositories are used for each project to provide visual context and enhance the overall aesthetic.
 
 ## Implemented Features
 
@@ -20,15 +20,50 @@ This portfolio showcases the skills, experience, and projects of 안주영, a 6-
 *   **Projects Section:** A grid-based showcase of key projects from his career, including:
     *   Robotics Control System (휴림네트웍스㈜)
     *   Flood Risk Map (㈜헥코리아)
-    *   Payvil Payment App (에몰라이즈㈜)
     *   isso Memo App (Personal Project)
-    *   Each project card includes the company, a description, key technologies, and links to live sites or app stores where applicable.
-*   **Contact Section:** Includes a contact form for easy communication and direct contact information (email, phone). It also features prominent links to his GitHub and a secondary portfolio.
-*   **Footer Section:** Contains copyright information and quick links to his professional profiles and repositories.
+    *   Each project card includes the company, a description, key technologies displayed as styled tags, and links to live sites or app stores where applicable.
+*   **Contact Section:** Includes a contact form for easy communication.
+*   **Footer Section:** Contains copyright information and a link to the developer's GitHub profile.
 
 ## Development History
 
-### Phase 3: Skills Section Integration (Current)
+### Phase 8: Tech Stack Tag Styling (Current)
+
+*   **Objective:** Improve the visual representation of the technology stacks for each project.
+*   **Actions Taken:**
+    *   Updated `projects.css` to add styling for `.project-tech` and a new `.project-techs` container, creating a tag-like appearance with background color, padding, and rounded corners.
+    *   Modified `projects.html` to wrap the technology `<span>` tags within a `<div class="project-techs">` to apply the new flexbox layout.
+
+### Phase 7: Project Image Update
+
+*   **Objective:** Replace placeholder project images with official and relevant images.
+*   **Actions Taken:**
+    *   Updated the image for "로봇 관제 시스템" to the official TETRA robot image.
+    *   Updated the image for "홍수위험지도" to a screenshot from the official government site.
+    *   Updated the image for "isso 메모 앱" to the official app splash screen.
+
+### Phase 6: Contact Section Cleanup
+
+*   **Objective:** Simplify the contact section by removing the contact information panel.
+*   **Actions Taken:**
+    *   Removed the entire 'contact-info' div from `contact.html`.
+    *   Adjusted the layout to allow the contact form to fill the full width of the section.
+
+### Phase 5: Footer Cleanup
+
+*   **Objective:** Update the footer to change the copyright year and remove unnecessary links.
+*   **Actions Taken:**
+    *   Updated the copyright year to 2025 in `footer.html`.
+    *   Removed the "Secret Portfolio" and "Hyulim-Networks" links from the footer.
+
+### Phase 4: Project and Contact Cleanup
+
+*   **Objective:** Remove the 'Payvil' project from the portfolio and delete the phone number from the contact information.
+*   **Actions Taken:**
+    *   Removed the 'Payvil' project card from `projects.html`.
+    *   Removed the phone number from `contact.html`.
+
+### Phase 3: Skills Section Integration
 
 *   **Objective:** Add a new section to showcase the developer's technical skills.
 *   **Actions Taken:**
