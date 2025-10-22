@@ -1,262 +1,170 @@
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
-[debug] [2025-10-22T14:24:48.128Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.133Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.134Z] > refreshing access token with scopes: []
-[debug] [2025-10-22T14:24:48.152Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
-[debug] [2025-10-22T14:24:48.153Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:48.265Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.266Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.266Z] > refreshing access token with scopes: []
-[debug] [2025-10-22T14:24:48.267Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
-[debug] [2025-10-22T14:24:48.268Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:48.279Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.279Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.280Z] > refreshing access token with scopes: []
-[debug] [2025-10-22T14:24:48.282Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
-[debug] [2025-10-22T14:24:48.282Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:48.287Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.287Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.287Z] > refreshing access token with scopes: []
-[debug] [2025-10-22T14:24:48.288Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
-[debug] [2025-10-22T14:24:48.289Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:48.294Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.294Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.294Z] > refreshing access token with scopes: []
-[debug] [2025-10-22T14:24:48.295Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
-[debug] [2025-10-22T14:24:48.295Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:48.299Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.299Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.300Z] > refreshing access token with scopes: []
-[debug] [2025-10-22T14:24:48.300Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
-[debug] [2025-10-22T14:24:48.300Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:48.305Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.305Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.305Z] > refreshing access token with scopes: []
-[debug] [2025-10-22T14:24:48.306Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
-[debug] [2025-10-22T14:24:48.306Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.224Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.224Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.224Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T15:23:29.227Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T15:23:29.228Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.252Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.252Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.253Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T15:23:29.253Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T15:23:29.253Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.256Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.256Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.257Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T15:23:29.257Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T15:23:29.257Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.260Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.260Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.260Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T15:23:29.260Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T15:23:29.260Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.262Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.263Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.263Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T15:23:29.263Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T15:23:29.263Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.265Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.265Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.265Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T15:23:29.266Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T15:23:29.266Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.267Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.267Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.268Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T15:23:29.268Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T15:23:29.268Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
-[debug] [2025-10-22T14:24:48.634Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.636Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.637Z] > refreshing access token with scopes: []
-[debug] [2025-10-22T14:24:48.638Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
-[debug] [2025-10-22T14:24:48.639Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:48.647Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.647Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.648Z] > refreshing access token with scopes: []
-[debug] [2025-10-22T14:24:48.651Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
-[debug] [2025-10-22T14:24:48.651Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:48.659Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.659Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.660Z] > refreshing access token with scopes: []
-[debug] [2025-10-22T14:24:48.661Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
-[debug] [2025-10-22T14:24:48.662Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:48.668Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.669Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.669Z] > refreshing access token with scopes: []
-[debug] [2025-10-22T14:24:48.669Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
-[debug] [2025-10-22T14:24:48.669Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:48.675Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.676Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.676Z] > refreshing access token with scopes: []
-[debug] [2025-10-22T14:24:48.677Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
-[debug] [2025-10-22T14:24:48.677Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:48.684Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.684Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.684Z] > refreshing access token with scopes: []
-[debug] [2025-10-22T14:24:48.685Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
-[debug] [2025-10-22T14:24:48.685Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:48.696Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.696Z] Checked if tokens are valid: false, expires at: 1761035095799
-[debug] [2025-10-22T14:24:48.696Z] > refreshing access token with scopes: []
-[debug] [2025-10-22T14:24:48.698Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
-[debug] [2025-10-22T14:24:48.699Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:49.095Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
-[debug] [2025-10-22T14:24:49.095Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:49.138Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseio.com [none]
-[debug] [2025-10-22T14:24:49.138Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseio.com x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:49.173Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
-[debug] [2025-10-22T14:24:49.174Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:49.197Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasedataconnect.googleapis.com [none]
-[debug] [2025-10-22T14:24:49.197Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:49.216Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
-[debug] [2025-10-22T14:24:49.216Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:49.236Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasecrashlytics.googleapis.com [none]
-[debug] [2025-10-22T14:24:49.236Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:49.268Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
-[debug] [2025-10-22T14:24:49.269Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:49.296Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasecrashlytics.googleapis.com [none]
-[debug] [2025-10-22T14:24:49.296Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:49.393Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
-[debug] [2025-10-22T14:24:49.393Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:49.417Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseapphosting.googleapis.com [none]
-[debug] [2025-10-22T14:24:49.418Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:49.428Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
-[debug] [2025-10-22T14:24:49.428Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:49.450Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firestore.googleapis.com [none]
-[debug] [2025-10-22T14:24:49.453Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firestore.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:49.468Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
-[debug] [2025-10-22T14:24:49.469Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:49.491Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firestore.googleapis.com [none]
-[debug] [2025-10-22T14:24:49.492Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firestore.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:49.507Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
-[debug] [2025-10-22T14:24:49.509Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:49.532Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/ [none]
-[debug] [2025-10-22T14:24:49.532Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/ x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:49.546Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
-[debug] [2025-10-22T14:24:49.546Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:49.566Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasedataconnect.googleapis.com [none]
-[debug] [2025-10-22T14:24:49.566Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:49.573Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
-[debug] [2025-10-22T14:24:49.574Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:49.590Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/cloudfunctions.googleapis.com [none]
-[debug] [2025-10-22T14:24:49.591Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:49.602Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
-[debug] [2025-10-22T14:24:49.602Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:49.619Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/ [none]
-[debug] [2025-10-22T14:24:49.622Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/ x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:49.633Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
-[debug] [2025-10-22T14:24:49.635Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:49.653Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseapphosting.googleapis.com [none]
-[debug] [2025-10-22T14:24:49.653Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:49.795Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
-[debug] [2025-10-22T14:24:49.801Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:49.821Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/cloudfunctions.googleapis.com [none]
-[debug] [2025-10-22T14:24:49.821Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:49.854Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
-[debug] [2025-10-22T14:24:49.855Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
-[debug] [2025-10-22T14:24:49.883Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseio.com [none]
-[debug] [2025-10-22T14:24:49.883Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseio.com x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:50.248Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseio.com 403
-[debug] [2025-10-22T14:24:50.251Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseio.com [omitted]
-[debug] [2025-10-22T14:24:50.344Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasedataconnect.googleapis.com 200
-[debug] [2025-10-22T14:24:50.348Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasedataconnect.googleapis.com [omitted]
-[debug] [2025-10-22T14:24:50.363Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasecrashlytics.googleapis.com 200
-[debug] [2025-10-22T14:24:50.363Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasecrashlytics.googleapis.com [omitted]
-[debug] [2025-10-22T14:24:50.393Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasecrashlytics.googleapis.com 200
-[debug] [2025-10-22T14:24:50.393Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasecrashlytics.googleapis.com [omitted]
-[debug] [2025-10-22T14:24:50.900Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseio.com 403
-[debug] [2025-10-22T14:24:50.908Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseio.com [omitted]
-[debug] [2025-10-22T14:24:50.976Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseapphosting.googleapis.com 200
-[debug] [2025-10-22T14:24:50.976Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseapphosting.googleapis.com [omitted]
-[debug] [2025-10-22T14:24:50.991Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/cloudfunctions.googleapis.com 200
-[debug] [2025-10-22T14:24:50.992Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/cloudfunctions.googleapis.com [omitted]
-[debug] [2025-10-22T14:24:50.996Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasedataconnect.googleapis.com 200
-[debug] [2025-10-22T14:24:50.996Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasedataconnect.googleapis.com [omitted]
-[debug] [2025-10-22T14:24:51.006Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firestore.googleapis.com 200
-[debug] [2025-10-22T14:24:51.006Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firestore.googleapis.com [omitted]
-[debug] [2025-10-22T14:24:51.017Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseapphosting.googleapis.com 200
-[debug] [2025-10-22T14:24:51.017Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseapphosting.googleapis.com [omitted]
-[debug] [2025-10-22T14:24:51.026Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/cloudfunctions.googleapis.com 200
-[debug] [2025-10-22T14:24:51.026Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/cloudfunctions.googleapis.com [omitted]
-[debug] [2025-10-22T14:24:51.053Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firestore.googleapis.com 200
-[debug] [2025-10-22T14:24:51.054Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firestore.googleapis.com [omitted]
-[debug] [2025-10-22T14:24:51.103Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/ 200
-[debug] [2025-10-22T14:24:51.103Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/ [omitted]
+[debug] [2025-10-22T15:23:29.341Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.341Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.341Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T15:23:29.342Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T15:23:29.342Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.345Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.345Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.345Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T15:23:29.346Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T15:23:29.346Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.348Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.348Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.348Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T15:23:29.348Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T15:23:29.348Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.351Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.351Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.351Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T15:23:29.352Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T15:23:29.352Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.356Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.356Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.356Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T15:23:29.356Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T15:23:29.356Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.359Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.359Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.359Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T15:23:29.359Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T15:23:29.359Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.361Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.362Z] Checked if tokens are valid: false, expires at: 1761146688863
+[debug] [2025-10-22T15:23:29.362Z] > refreshing access token with scopes: []
+[debug] [2025-10-22T15:23:29.362Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-22T15:23:29.362Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.423Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T15:23:29.424Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.445Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-22T15:23:29.445Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
+[debug] [2025-10-22T15:23:29.449Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T15:23:29.449Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.458Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-22T15:23:29.458Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
+[debug] [2025-10-22T15:23:29.479Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T15:23:29.479Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.493Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/ [none]
+[debug] [2025-10-22T15:23:29.493Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/ x-goog-quota-user=projects/my-secret-portfolio
+[debug] [2025-10-22T15:23:29.495Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T15:23:29.496Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.504Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/ [none]
+[debug] [2025-10-22T15:23:29.504Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/ x-goog-quota-user=projects/my-secret-portfolio
+[debug] [2025-10-22T15:23:29.511Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T15:23:29.511Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.520Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firestore.googleapis.com [none]
+[debug] [2025-10-22T15:23:29.520Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firestore.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
+[debug] [2025-10-22T15:23:29.522Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T15:23:29.523Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.531Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseio.com [none]
+[debug] [2025-10-22T15:23:29.531Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseio.com x-goog-quota-user=projects/my-secret-portfolio
+[debug] [2025-10-22T15:23:29.541Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T15:23:29.543Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.558Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firestore.googleapis.com [none]
+[debug] [2025-10-22T15:23:29.558Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firestore.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
+[debug] [2025-10-22T15:23:29.560Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T15:23:29.560Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.569Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseio.com [none]
+[debug] [2025-10-22T15:23:29.569Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseio.com x-goog-quota-user=projects/my-secret-portfolio
+[debug] [2025-10-22T15:23:29.599Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T15:23:29.599Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.607Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-22T15:23:29.608Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
+[debug] [2025-10-22T15:23:29.610Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T15:23:29.610Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.617Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-22T15:23:29.617Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
+[debug] [2025-10-22T15:23:29.619Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T15:23:29.619Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.627Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-10-22T15:23:29.627Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
+[debug] [2025-10-22T15:23:29.629Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T15:23:29.629Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.639Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-22T15:23:29.640Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
+[debug] [2025-10-22T15:23:29.644Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T15:23:29.646Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.658Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-22T15:23:29.659Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
+[debug] [2025-10-22T15:23:29.699Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-22T15:23:29.702Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-22T15:23:29.713Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-10-22T15:23:29.713Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
+[debug] [2025-10-22T15:23:30.111Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/cloudfunctions.googleapis.com 200
+[debug] [2025-10-22T15:23:30.111Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-10-22T15:23:30.517Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-22T15:23:30.517Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-22T15:23:30.534Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-22T15:23:30.535Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-22T15:23:30.566Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseio.com 403
+[debug] [2025-10-22T15:23:30.567Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseio.com [omitted]
+[debug] [2025-10-22T15:23:30.612Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firestore.googleapis.com 200
+[debug] [2025-10-22T15:23:30.612Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firestore.googleapis.com [omitted]
+[debug] [2025-10-22T15:23:30.627Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseio.com 403
+[debug] [2025-10-22T15:23:30.627Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseio.com [omitted]
+[debug] [2025-10-22T15:23:30.669Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-22T15:23:30.670Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-22T15:23:30.688Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-22T15:23:30.688Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-22T15:23:30.696Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-22T15:23:30.696Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-22T15:23:30.721Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/cloudfunctions.googleapis.com 200
+[debug] [2025-10-22T15:23:30.722Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-10-22T15:23:30.724Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firestore.googleapis.com 200
+[debug] [2025-10-22T15:23:30.724Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firestore.googleapis.com [omitted]
+[debug] [2025-10-22T15:23:30.725Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-22T15:23:30.726Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-22T15:23:30.876Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/ 200
+[debug] [2025-10-22T15:23:30.877Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/ [omitted]
+[debug] [2025-10-22T15:23:30.919Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/ 200
+[debug] [2025-10-22T15:23:30.920Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/ [omitted]
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
-[debug] [2025-10-22T14:24:51.119Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
-[debug] [2025-10-22T14:24:51.120Z] > authorizing via signed-in user (dkswndud92@gmail.com)
-[debug] [2025-10-22T14:24:51.138Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/ 200
-[debug] [2025-10-22T14:24:51.138Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/ [omitted]
+[debug] [2025-10-22T15:23:30.926Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:23:30.927Z] > authorizing via signed-in user (dkswndud92@gmail.com)
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
-[debug] [2025-10-22T14:24:54.998Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:54.999Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.000Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.001Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.002Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.003Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.003Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.004Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.005Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.005Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.007Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.007Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.008Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.009Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.012Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/ [none]
-[debug] [2025-10-22T14:24:55.013Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/ x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:55.068Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firestore.googleapis.com [none]
-[debug] [2025-10-22T14:24:55.069Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firestore.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:55.075Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasedataconnect.googleapis.com [none]
-[debug] [2025-10-22T14:24:55.076Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:55.081Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/cloudfunctions.googleapis.com [none]
-[debug] [2025-10-22T14:24:55.081Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:55.083Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasecrashlytics.googleapis.com [none]
-[debug] [2025-10-22T14:24:55.084Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:55.088Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseapphosting.googleapis.com [none]
-[debug] [2025-10-22T14:24:55.088Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:55.092Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseio.com [none]
-[debug] [2025-10-22T14:24:55.092Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseio.com x-goog-quota-user=projects/my-secret-portfolio
+[debug] [2025-10-22T15:23:30.950Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:23:30.950Z] > authorizing via signed-in user (dkswndud92@gmail.com)
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
-[debug] [2025-10-22T14:24:55.206Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.206Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.207Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.207Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.208Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.208Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.208Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.209Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.209Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.209Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.210Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.210Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.210Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.210Z] Checked if tokens are valid: true, expires at: 1761146688863
-[debug] [2025-10-22T14:24:55.211Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/ [none]
-[debug] [2025-10-22T14:24:55.211Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/ x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:55.215Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firestore.googleapis.com [none]
-[debug] [2025-10-22T14:24:55.215Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firestore.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:55.219Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasedataconnect.googleapis.com [none]
-[debug] [2025-10-22T14:24:55.220Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:55.223Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/cloudfunctions.googleapis.com [none]
-[debug] [2025-10-22T14:24:55.224Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:55.228Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasecrashlytics.googleapis.com [none]
-[debug] [2025-10-22T14:24:55.229Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:55.233Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseapphosting.googleapis.com [none]
-[debug] [2025-10-22T14:24:55.233Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:55.238Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseio.com [none]
-[debug] [2025-10-22T14:24:55.239Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseio.com x-goog-quota-user=projects/my-secret-portfolio
-[debug] [2025-10-22T14:24:56.246Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firestore.googleapis.com 200
-[debug] [2025-10-22T14:24:56.247Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firestore.googleapis.com [omitted]
-[debug] [2025-10-22T14:24:56.263Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseio.com 403
-[debug] [2025-10-22T14:24:56.263Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseio.com [omitted]
-[debug] [2025-10-22T14:24:56.268Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasedataconnect.googleapis.com 200
-[debug] [2025-10-22T14:24:56.273Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasedataconnect.googleapis.com [omitted]
-[debug] [2025-10-22T14:24:56.277Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasecrashlytics.googleapis.com 200
-[debug] [2025-10-22T14:24:56.277Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasecrashlytics.googleapis.com [omitted]
-[debug] [2025-10-22T14:24:56.287Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseapphosting.googleapis.com 200
-[debug] [2025-10-22T14:24:56.289Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseapphosting.googleapis.com [omitted]
-[debug] [2025-10-22T14:24:56.291Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/cloudfunctions.googleapis.com 200
-[debug] [2025-10-22T14:24:56.292Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/cloudfunctions.googleapis.com [omitted]
-[debug] [2025-10-22T14:24:56.302Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasedataconnect.googleapis.com 200
-[debug] [2025-10-22T14:24:56.302Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasedataconnect.googleapis.com [omitted]
-[debug] [2025-10-22T14:24:56.309Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firestore.googleapis.com 200
-[debug] [2025-10-22T14:24:56.310Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firestore.googleapis.com [omitted]
-[debug] [2025-10-22T14:24:56.341Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseio.com 403
-[debug] [2025-10-22T14:24:56.341Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseio.com [omitted]
-[debug] [2025-10-22T14:24:56.348Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseapphosting.googleapis.com 200
-[debug] [2025-10-22T14:24:56.348Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebaseapphosting.googleapis.com [omitted]
-[debug] [2025-10-22T14:24:56.350Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasecrashlytics.googleapis.com 200
-[debug] [2025-10-22T14:24:56.351Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/firebasecrashlytics.googleapis.com [omitted]
-[debug] [2025-10-22T14:24:56.354Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/cloudfunctions.googleapis.com 200
-[debug] [2025-10-22T14:24:56.354Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/cloudfunctions.googleapis.com [omitted]
-[debug] [2025-10-22T14:24:56.440Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/ 200
-[debug] [2025-10-22T14:24:56.440Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/ [omitted]
-[debug] [2025-10-22T14:24:56.557Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/ 200
-[debug] [2025-10-22T14:24:56.557Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/my-secret-portfolio/services/ [omitted]
-[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
-[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
-[debug] [2025-10-22T14:24:56.567Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
-[debug] [2025-10-22T14:24:56.576Z] > authorizing via signed-in user (dkswndud92@gmail.com)
-[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
-[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
-[debug] [2025-10-22T14:24:56.624Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
-[debug] [2025-10-22T14:24:56.627Z] > authorizing via signed-in user (dkswndud92@gmail.com)
-[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
-[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
-[debug] [2025-10-22T14:24:56.644Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
-[debug] [2025-10-22T14:24:56.644Z] > authorizing via signed-in user (dkswndud92@gmail.com)
+[debug] [2025-10-22T15:23:30.960Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:23:30.960Z] > authorizing via signed-in user (dkswndud92@gmail.com)
