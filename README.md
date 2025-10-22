@@ -1,59 +1,56 @@
-# Myapp
+# Ahn Joo Young - 포트폴리오
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.5.
+이것은 웹 개발자로서 저의 기술과 프로젝트를 보여주는 개인 포트폴리오 웹사이트의 소스 코드입니다. 이 포트폴리오는 Angular로 구축되었으며 현대적이고 반응이 빠르며 상호작용적인 경험을 제공하도록 설계되었습니다.
 
-## Development server
+## 라이브 데모
 
-To start a local development server, run:
+여기에서 제 포트폴리오의 라이브 버전을 보실 수 있습니다: [https://my-secret-portfolio.web.app](https://my-secret-portfolio.web.app)
 
-```bash
-ng serve
-```
+## 특징
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+*   **반응형 디자인:** 포트폴리오는 완전히 반응형이며 휴대폰에서 데스크톱 컴퓨터에 이르기까지 모든 장치에서 작동합니다.
+*   **인터랙티브 UI:** 사용자 인터페이스에는 매력적인 경험을 제공하기 위한 인터랙티브 요소와 애니메이션이 포함되어 있습니다.
+*   **프로젝트 쇼케이스:** 라이브 데모 및 소스 코드 링크와 함께 제 프로젝트를 표시하는 전용 섹션입니다.
+*   **기술 개요:** 저의 기술적 능력과 전문 지식에 대한 요약입니다.
+*   **연락처 정보:** 제 연락처 정보 및 소셜 미디어 프로필에 쉽게 액세스할 수 있습니다.
 
-## Code scaffolding
+## 사용된 기술
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+*   **Angular:** 단일 페이지 애플리케이션 구축을 위한 핵심 프레임워크입니다.
+*   **TypeScript:** 프로젝트의 기본 프로그래밍 언어입니다.
+*   **HTML & CSS:** 사용자 인터페이스의 구조화 및 스타일링을 위한 것입니다.
+*   **Firebase Hosting:** 포트폴리오의 라이브 버전을 호스팅하기 위한 것입니다.
 
-```bash
-ng generate component component-name
-```
+## 시작하기
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+프로젝트를 로컬에서 실행하려면 다음 단계를 따르십시오:
 
-```bash
-ng generate --help
-```
+1.  **저장소 복제:**
 
-## Building
+    ```bash
+    git clone https://github.com/dkswndud1992/portfolio.git
+    ```
 
-To build the project run:
+2.  **프로젝트 디렉토리로 이동:**
 
-```bash
-ng build
-```
+    ```bash
+    cd portfolio
+    ```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+3.  **의존성 설치:**
 
-## Running unit tests
+    ```bash
+    npm install
+    ```
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+4.  **개발 서버 시작:**
 
-```bash
-ng test
-```
+    ```bash
+    ng serve
+    ```
 
-## Running end-to-end tests
+    애플리케이션은 `http://localhost:4200/`에서 사용할 수 있습니다.
 
-For end-to-end (e2e) testing, run:
+## 라이선스
 
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+이 프로젝트는 MIT 라이선스에 따라 라이선스가 부여됩니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하십시오.
