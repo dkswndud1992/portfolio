@@ -6,6 +6,7 @@ import { ProjectsComponent } from './projects/projects';
 import { SkillsComponent } from './skills/skills';
 import { ContactComponent } from './contact/contact';
 import { FooterComponent } from './footer/footer';
+import { HeaderComponent } from './header/header';
 
 @Component({
   selector: 'app-root',
@@ -14,6 +15,7 @@ import { FooterComponent } from './footer/footer';
   changeDetection: ChangeDetectionStrategy.OnPush,
   imports: [
     RouterModule,
+    HeaderComponent,
     HeroComponent,
     AboutComponent,
     ProjectsComponent,

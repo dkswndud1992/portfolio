@@ -1,0 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  padding-top: 80px; /* Adjust this value based on the header's height */
+}
