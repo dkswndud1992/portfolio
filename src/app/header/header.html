@@ -3,12 +3,18 @@
     <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h32v32H0z"/><g stroke="#8A2BE2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22l-6-6 6-6M20 22l6-6-6-6"/></g></g></svg>
     <span>Ahn Joo Young</span>
   </a>
-  <nav>
+  <button *ngIf="!isMenuOpen" class="menu-toggle" (click)="toggleMenu()">
+    <i class="fas fa-bars"></i>
+  </button>
+  <nav [class.open]="isMenuOpen">
+    <button class="close-menu" (click)="toggleMenu()">
+      <i class="fas fa-times"></i>
+    </button>
     <ul>
-      <li><a href="#about">About Me</a></li>
-      <li><a href="#skills">Skills</a></li>
-      <li><a href="#projects">Projects</a></li>
-      <li><a href="#contact">Contact Me</a></li>
+      <li><a href="#about" (click)="toggleMenu()">About Me</a></li>
+      <li><a href="#skills" (click)="toggleMenu()">Skills</a></li>
+      <li><a href="#projects" (click)="toggleMenu()">Projects</a></li>
+      <li><a href="#contact" (click)="toggleMenu()">Contact Me</a></li>
     </ul>
   </nav>
 </header>
