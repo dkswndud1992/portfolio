@@ -1,7 +1,31 @@
-html {
-  scroll-behavior: smooth;
+.content-wrapper {
+  position: relative;
 }
 
-body {
-  padding-top: 80px; /* Adjust this value based on the header's height */
+.blurred {
+  filter: blur(8px);
+  pointer-events: none;
+  user-select: none;
+}
+
+.unlock-prompt {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 10;
+  background: rgba(255, 255, 255, 0.7);
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.unlock-prompt button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border: 1px solid #333;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #333;
 }
