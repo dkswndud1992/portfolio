@@ -1,4 +1,4 @@
-import { ChangeDetectionStrategy, Component, OnInit } from '@angular/core';
+import { ChangeDetectionStrategy, Component, ElementRef, HostListener, OnInit, ViewChild } from '@angular/core';
 import { ActivatedRoute, RouterModule } from '@angular/router';
 import { HeroComponent } from './hero/hero';
 import { AboutComponent } from './about/about';
@@ -32,6 +32,10 @@ import { CommonModule } from '@angular/common';
 })
 export class AppComponent implements OnInit {
   unlocked$: Observable<boolean>;
+  showUnlockPrompt = false;
+
+  @ViewChild('skills', { static: true }) skillsSection!: ElementRef;
+  @ViewChild('projects', { static: true }) projectsSection!: ElementRef;
 
 
   constructor(
@@ -52,8 +56,18 @@ export class AppComponent implements OnInit {
 
   }
 
-  promptForPassword(): void {
-    const password = prompt('Please enter the password to unlock:');
+  @HostListener('window:scroll', [])
+  onWindowScroll() {
+    const projectsSectionTop = this.projectsSection.nativeElement.getBoundingClientRect().top;
+
+    if (projectsSectionTop < 0) {
+      this.showUnlockPrompt = true;
+    } else {
+      this.showUnlockPrompt = false;
+    }
+  }
+
+  checkPassword(password: string): void {
     if (password) {
       this.authService.checkPassword(password);
     }

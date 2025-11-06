@@ -8,24 +8,24 @@
   <app-about></app-about>
 </section>
 
-<section id="skills">
+<section id="skills" #skills>
   <app-skills></app-skills>
 </section>
 
 <div class="content-wrapper" [class.blurred]="!(unlocked$ | async)">
-  <section id="projects">
+  <section id="projects" #projects>
     <app-projects></app-projects>
   </section>
 
   <section id="contact">
     <app-contact></app-contact>
   </section>
-
-  @if (!(unlocked$ | async)) {
-    <div class="unlock-prompt">
-      <button (click)="promptForPassword()">Unlock Content</button>
-    </div>
-  }
 </div>
 
+@if (!(unlocked$ | async) && showUnlockPrompt) {
+  <div class="unlock-prompt">
+    <input type="password" placeholder="Enter password" #passwordInput />
+    <button (click)="checkPassword(passwordInput.value)">Unlock</button>
+  </div>
+}
 <app-footer></app-footer>
